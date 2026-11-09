@@ -16,3 +16,7 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Local-only notes for Claude Code sessions
+HANDOFF.md
+CLAUDE.local.md
