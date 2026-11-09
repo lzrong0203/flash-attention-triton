@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw profiler reports (commit CSV exports instead)
+*.ncu-rep
+*.nsys-rep
+*.qdrep
+*.sqlite
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
